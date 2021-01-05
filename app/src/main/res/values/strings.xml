@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="no_internet_error">No Internet</string>
+    <string name="retry">Retry</string>
+</resources>
